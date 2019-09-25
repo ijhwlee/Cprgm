@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("Hello github modify!\n");
+	printf("Hello github modify good!\n");
 	return 0;
 }
