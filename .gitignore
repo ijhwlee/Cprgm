@@ -6,4 +6,5 @@
 *.tlog
 *.idb
 *.lastbuildstate
-*.suo
+.suo
+*.log
