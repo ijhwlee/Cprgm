@@ -1,3 +1,4 @@
+.suo
 *.opendb
 *.obj
 *.exe
@@ -6,5 +7,4 @@
 *.tlog
 *.idb
 *.lastbuildstate
-.suo
 *.log
