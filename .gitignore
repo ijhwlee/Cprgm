@@ -8,3 +8,5 @@
 *.idb
 *.lastbuildstate
 *.log
+*.db
+*.ipch
