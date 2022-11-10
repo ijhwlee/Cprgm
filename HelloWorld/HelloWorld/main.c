@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Hello github modify good!\n");
+	printf("Hello World!\n");
 	printf("Modified by VS2002.\n");
 	return 0;
 }
