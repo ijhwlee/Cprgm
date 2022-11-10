@@ -3,6 +3,6 @@
 int main(void)
 {
 	printf("Hello World!\n");
-	printf("Modified by VS2002.\n");
+	printf("Modified at github homepage.\n");
 	return 0;
 }
