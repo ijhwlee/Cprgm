@@ -3,6 +3,6 @@
 int main(void)
 {
 	printf("Hello github modify good!\n");
-	printf("Added from other computer.\n");
+	printf("Modified by VS2002.\n");
 	return 0;
 }
