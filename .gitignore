@@ -61,3 +61,6 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.opendb
+
+# directories
+.vs/
