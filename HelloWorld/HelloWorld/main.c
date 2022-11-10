@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Hello World!\n");
+	printf("Hello World Odyssey branch changed!\n");
 	printf("Modified at github homepage.\n");
 	return 0;
 }
